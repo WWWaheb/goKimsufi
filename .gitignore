@@ -16,3 +16,7 @@
 *.swp
 *.swo
 *.idea
+
+# Env file
+env
+.env
